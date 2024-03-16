@@ -68,7 +68,7 @@
     <br>
           <center><img src="/assets/img/b.jpg" class="img-fluid mt-2 border border-light border-2" alt="covergambar"></center>
           <p class="mx-auto fs-5 text-center align-items-center">
-            Pada tahun 1967, dunia otomotif disambut oleh hadirnya salah satu ikon legendaris yang masih terus mempesona hingga saat ini - Ford Mustang 1967. Mustang generasi kedua ini tidak hanya mengguncang jalan raya, tetapi juga membangun warisan yang kuat dalam sejarah mobil sport Amerika.
+            Pada tahun 1967, dunia otomotif disambut oleh hadirnya salah satu ikon legendaris yang masih terus mempesona hingga saat ini Ford Mustang 1967. Mustang generasi kedua ini tidak hanya mengguncang jalan raya, tetapi juga membangun warisan yang kuat dalam sejarah mobil sport Amerika.
           </p>
           <p class="mx-auto fs-5 text-center align-items-center">
             Mustang 1967 adalah penerus yang luar biasa dari model pertama Mustang yang diluncurkan pada tahun 1964. Namun, dengan perubahan selera dan perkembangan teknologi, Ford mengambil langkah maju dengan merilis versi yang lebih elegan dan bertenaga pada tahun 1967. Desainnya mengalami evolusi yang mencolok, dengan garis-garis yang lebih tegas dan proporsi yang lebih atletis.
